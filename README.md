@@ -13,7 +13,6 @@
 
 <div class="box">
     <h2>🚀 Features</h2>
-
     <h3>🔐 Authentication & Roles</h3>
     <ul>
         <li>User registration and login</li>
@@ -25,8 +24,7 @@
         </li>
         <li>Session-based authentication</li>
     </ul>
-
-    <h3>🧠 Smart Matching System</h3>
+<h3>🧠 Smart Matching System</h3>
     <ul>
         <li>Matches calculated using a weighted compatibility score</li>
         <li>Top 5 matches displayed and ranked</li>
@@ -41,13 +39,11 @@
             </ul>
         </li>
     </ul>
-
     <h3>📍 Location-Based Matching</h3>
     <ul>
         <li>Users from the same city are prioritized (e.g., Pune → Pune)</li>
         <li>Makes matches realistic and practical</li>
     </ul>
-
     <h3>📞 Contact & Privacy Control</h3>
     <ul>
         <li>Users can share Phone, Email, or WhatsApp</li>
@@ -55,13 +51,11 @@
         <li>Users control visibility of contact details</li>
         <li>Only matched users can see contact details</li>
     </ul>
-
     <h3>🏠 Accommodation Module (Owners Only)</h3>
     <ul>
         <li>Add or edit accommodation details</li>
         <li>Location input with placeholders (Area, City)</li>
     </ul>
-
     <h3>📊 Dashboard</h3>
     <ul>
         <li>Welcome message with user name</li>
@@ -70,7 +64,6 @@
         <li>Quick action buttons</li>
         <li>Privacy reminder</li>
     </ul>
-
     <h3>🗑️ Account Deletion</h3>
     <ul>
         <li>Password confirmation before deletion</li>
