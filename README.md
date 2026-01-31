@@ -1,12 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>StayMate – Roommate & Accommodation Matching System</title>
-    
-</head>
-<body>
-
 <h1>StayMate</h1>
 <p><strong>Role-Based Roommate & Accommodation Matching System</strong></p>
 
