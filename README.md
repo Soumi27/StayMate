@@ -110,28 +110,6 @@ The application follows a complete user flow:
 
 ---
 
-## 📂 Project Structure
-
-StayMate/
-│
-├── db.php
-├── register.php
-├── login.php
-├── dashboard.php
-├── preferences.php
-├── accommodation.php
-├── contact_details.php
-├── find_matches.php
-├── confirm_delete.php
-├── delete_account.php
-├── goodbye.php
-├── nav.php
-├── style.css
-└── README.md
-
-
----
-
 ## ▶️ How to Run the Project
 
 1. Install **XAMPP**
