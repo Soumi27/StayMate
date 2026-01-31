@@ -110,3 +110,55 @@ button:hover {
     border-left: 5px solid #3498db;
     border-radius: 5px;
 }
+/* 🔹 Progress Bar */
+.progress-bar {
+    background: #ddd;
+    border-radius: 20px;
+    height: 10px;
+    margin-bottom: 20px;
+}
+
+.progress-fill {
+    background: #2ecc71;
+    height: 100%;
+    border-radius: 20px;
+}
+
+/* 🔹 Info Cards */
+.card-grid {
+    display: flex;
+    gap: 10px;
+    margin: 20px 0;
+}
+
+.info-card {
+    flex: 1;
+    background: #ecf0f1;
+    padding: 15px;
+    border-radius: 6px;
+    text-align: center;
+}
+
+.info-card h4 {
+    margin-bottom: 5px;
+    color: #2c3e50;
+}
+
+/* 🔹 Privacy Box */
+.privacy-box {
+    margin-top: 20px;
+    padding: 10px;
+    background: #f1f9ff;
+    border-left: 4px solid #3498db;
+    font-size: 13px;
+}
+
+/* 🔹 Danger Button */
+.danger-btn {
+    background: #e74c3c;
+    margin-top: 10px;
+}
+
+.danger-btn:hover {
+    background: #c0392b;
+}
